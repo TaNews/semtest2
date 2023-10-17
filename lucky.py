@@ -1,1 +1,2 @@
-print("Meine Glückzahl: " + 13)
+# Meine Glückszahl ist 13
+print("Meine Glückszahl: " + 13)
